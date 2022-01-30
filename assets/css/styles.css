@@ -120,8 +120,8 @@ header ul li a.active
 }
 .content a:hover
 {
-    background: #fff;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.1); 
+    background: rgba(0,0,0,0.2);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
 }
 .imgBx img
 {
